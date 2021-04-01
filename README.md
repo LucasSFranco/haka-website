@@ -10,7 +10,7 @@ git clone https://github.com/LucasSFranco/haka-website
 cd haka-website
 npm install
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;Then, you must create your own project in [Firebase](https://firebase.google.com/), copy the firebase config and place inside `/haka-website/src/firebase.imba`. Also, create an account in the auth section of your firebase project to have access to the administrador page, available at `/admin` route.
+&nbsp;&nbsp;&nbsp;&nbsp;Then, you must create your own project in [Firebase](https://firebase.google.com/), copy the firebase config from your project and place it inside `/haka-website/src/firebase.imba`. Also, create an account in the auth section of your firebase project to have access to the administrador page, available at `/admin` route.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Finally, just type the code below in the terminal and enjoy it.
 ```
