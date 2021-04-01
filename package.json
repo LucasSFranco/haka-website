@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --hot --content-base dist/",
+    "build": "webpack --mode=production"
+  },
+  "dependencies": {
+    "firebase": "^8.2.5",
+    "imba": "^2.0.0-alpha.99",
+    "masonry-layout": "^4.2.2",
+    "webpack": "^4.44.1",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}

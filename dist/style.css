@@ -1,0 +1,61 @@
+/* Global variables */
+
+:root {
+  --color-brown: #5B5A51;
+  --color-darkyellow: #7f733f;
+  --color-yellow: #ffd000;
+  --color-lightyellow: #ffe77f;
+  --color-lighteryellow: #fff1b2;
+
+  --yellow1: #fff9e0;
+  --yellow2: #fff2c0;
+  --yellow3: #ffe580;
+  --yellow4: #fed840;
+  --yellow5: #fecb00;
+  --yellow6: #e5b700;
+  --yellow7: #cba200;
+  --yellow8: #b28e00;
+  --yellow9: #987a00;
+
+  --brown1: #eaeae9;
+  --brown2: #d5d5d2;
+  --brown3: #abaaa5;
+  --brown4: #5B5A51;
+  --brown5: #56554a;
+  --brown6: #4d4c43;
+  --brown7: #45443b;
+  --brown8: #3c3b34;
+  --brown9: #34332c;
+
+  --white0: rgba(255, 255, 255, .02);
+  --white1: rgba(255, 255, 255, .05);
+  --white2: rgba(255, 255, 255, .10);
+  --white3: rgba(255, 255, 255, .25);
+  --white4: rgba(255, 255, 255, .40);
+  --white5: rgba(255, 255, 255, .50);
+  --white6: rgba(255, 255, 255, .60);
+  --white7: rgba(255, 255, 255, .75);
+  --white8: rgba(255, 255, 255, .90);
+  --white9: rgba(255, 255, 255, .95);
+
+  --black0: rgba(0, 0, 0, .02);
+  --black1: rgba(0, 0, 0, .05);
+  --black2: rgba(0, 0, 0, .10);
+  --black3: rgba(0, 0, 0, .25);
+  --black4: rgba(0, 0, 0, .40);
+  --black5: rgba(0, 0, 0, .50);
+  --black6: rgba(0, 0, 0, .60);
+  --black7: rgba(0, 0, 0, .75);
+  --black8: rgba(0, 0, 0, .90);
+  --black9: rgba(0, 0, 0, .95);
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: "Bison";
+  src: url("/fonts/Bison.ttf") format("truetype"),
+       url("fonts/Bison.otf") format("opentype"),
+       url("fonts/Bison.woff") format("woff");
+  font-display: block;
+}
