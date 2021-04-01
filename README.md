@@ -1,6 +1,6 @@
 # Haka Website ![](https://haka-website.web.app/assets/haka-32x32.png) <sup><sub>[DEMO](https://haka-website.web.app)</sub></sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;An animated portfolio website developed to my parents company using `Imba.js` and `Firebase`. It includes a header, an about section, a services section, a portfolio section - made with `Masonry` library - and a footer/contact section. Also, it's responsive and has an administrador page where you can change the portfolio categories and job images from each category.
+&nbsp;&nbsp;&nbsp;&nbsp;An animated portfolio website developed to my parents company using `Imba.js` and `Firebase`. It includes a header, an about section, a services section, a portfolio section - made with `Masonry` library - and a footer/contact section. Also, it's responsive and has an administrador page where you can change the portfolio categories and the job images from each category.
 
 ### How to run
 
